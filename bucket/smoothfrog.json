@@ -22,7 +22,7 @@
             "Aperture Grille\\Smooth Frog"
         ]
     ],
-    "checkver": "https://www.aperturegrille.com/software/SmoothFrog/SmoothFrog(\\S+?).zip",
+    "checkver": "SmoothFrog/SmoothFrog(\\S+?)\\.zip",
     "autoupdate": {
         "architecture": {
             "64bit": {
